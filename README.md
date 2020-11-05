@@ -29,4 +29,4 @@ Arriba: Tecla W
 Aparece una mujer: Tecla X
 ```
 
-Diviertete con esta simple presentacion del tecnologico de ciudad valles!
+Diviertete en el tecnologico de ciudad valles!
