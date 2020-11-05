@@ -12,7 +12,10 @@ Entrada del instituto tecnologico de cd valles realizada con Open GL
   cd app
   g++ main.cpp -o tecValles -lglut -lGLU -lGL
   ```
-  
+### Ejecutar
+```
+./tecValles
+```
 ### Movimientos
 ```
 Izquierda: Tecla A
