@@ -1,5 +1,7 @@
 # TecVallesOpenGL
-Entrada del instituto tecnologico de cd valles realizada con Open GL
+Entrada del instituto tecnologico de ciudad valles realizada con Open GL
+
+![alt text](https://github.com/BrunoRCE/TecVallesOpenGL/blob/master/tecvalles.png)
 
 ### Actualizar e instalar los siguientes paquetes
   ```
